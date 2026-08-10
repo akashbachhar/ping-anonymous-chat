@@ -1,0 +1,36 @@
+# ---- Virtual environment ----
+.venv/
+venv/
+env/
+
+# ---- Editor / tooling ----
+.claude/
+.vscode/
+.idea/
+*.swp
+
+# ---- Python bytecode & caches (recursive, all subfolders) ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Build / packaging artifacts ----
+build/
+dist/
+*.spec
+
+# ---- Tor runtime data ----
+# Contains your PRIVATE onion identity (onion_seed) plus Tor's caches.
+# Never commit this — anyone with onion_seed can impersonate your address.
+tor_data/
+
+# ---- Misc / OS ----
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
