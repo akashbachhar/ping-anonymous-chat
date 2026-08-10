@@ -9,6 +9,14 @@ file transfer. Tor (`tor.exe`) is bundled; nothing to configure.
 - 💬 Colour-coded chat with timestamps
 - 📎 File transfer up to 5 MB
 
+## Screenshots
+
+<p align="center">
+  <img src="demo/demo1.png" alt="Ping setup screen" width="45%" />
+  &nbsp;&nbsp;
+  <img src="demo/demo2.png" alt="Ping chat screen" width="45%" />
+</p>
+
 ## Requirements
 
 Windows · Python 3.10+ · `PyQt6`, `PySocks`, `stem` (installed below)
