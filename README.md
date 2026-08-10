@@ -12,9 +12,9 @@ file transfer. Tor (`tor.exe`) is bundled; nothing to configure.
 ## Screenshots
 
 <p align="center">
-  <img src="demo/demo1.png" alt="Ping setup screen" width="45%" />
+  <img src="demo/demo1.png" alt="Ping setup screen" height="420" />
   &nbsp;&nbsp;
-  <img src="demo/demo2.png" alt="Ping chat screen" width="45%" />
+  <img src="demo/demo2.png" alt="Ping chat screen" height="420" />
 </p>
 
 ## Requirements
