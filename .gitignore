@@ -24,6 +24,9 @@ build/
 dist/
 *.spec
 
+# ---- Release builds (distribute via GitHub Releases, not the repo) ----
+release/
+
 # ---- Tor runtime data ----
 # Contains your PRIVATE onion identity (onion_seed) plus Tor's caches.
 # Never commit this — anyone with onion_seed can impersonate your address.
